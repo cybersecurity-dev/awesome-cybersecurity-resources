@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# **`Awesome`** Cybersecurity Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# **`Awesome`** [Cybersecurity](https://wikipedia.org/wiki/Computer_security) Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
