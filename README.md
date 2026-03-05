@@ -22,6 +22,7 @@
 ### Company Blog
 - [Malwarebytes](https://www.malwarebytes.com/blog)
 - [Microsoft Security](https://www.microsoft.com/security/blog/)
+- [Palo Alto Networks](https://www.paloaltonetworks.com/blog/)
 
 ### Personal Blog
 - [0dayfans](https://0dayfans.com/)
