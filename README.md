@@ -19,8 +19,10 @@
 
 ### Blog
 
-### Company Blog
+- [Google - Project Zero](https://projectzero.google/)
 
+### Company Blog
+- [8kSec](https://8ksec.io/blog/)
 - [Check Point](https://blog.checkpoint.com/)
 - [Cisco Talos](https://blog.talosintelligence.com/)
 - [CrowdStrike](https://www.crowdstrike.com/blog/)
@@ -34,9 +36,7 @@
 
 
 ### Personal Blog
-
 - [0dayfans](https://0dayfans.com/)
-- [8kSec](https://8ksec.io/blog/)
 - [Dayzerosec](https://dayzerosec.com/blog/)
 
 
