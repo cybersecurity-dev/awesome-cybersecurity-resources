@@ -18,7 +18,7 @@
 
 
 ### Blog
-
+- [Firefox - Attack & Defense](https://attackanddefense.dev/)
 - [Google - Project Zero](https://projectzero.google/)
 
 ### Company Blog
