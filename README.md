@@ -30,9 +30,12 @@
 - [Fortinet](https://www.fortinet.com/blog/)
 - [Malwarebytes](https://www.malwarebytes.com/blog/)
 - [Microsoft Security](https://www.microsoft.com/security/blog/)
+- [Nozomi Networks](https://www.nozominetworks.com/blog)
 - [Palo Alto Networks](https://www.paloaltonetworks.com/blog/)
 - [Recorded Future](https://www.recordedfuture.com/blog/)
-- [Red Hat® Security](https://www.redhat.com/en/blog/channel/security/)
+- [Red Hat Security](https://www.redhat.com/en/blog/channel/security/)
+- [ReversingLabs](https://www.reversinglabs.com/blog)
+- [Sophos](https://www.sophos.com/blog)
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
 
 
