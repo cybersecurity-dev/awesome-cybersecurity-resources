@@ -35,6 +35,7 @@
 - [Recorded Future](https://www.recordedfuture.com/blog/)
 - [Red Hat Security](https://www.redhat.com/en/blog/channel/security/)
 - [ReversingLabs](https://www.reversinglabs.com/blog)
+- [SentinelOne](https://www.sentinelone.com/blog/)
 - [Sophos](https://www.sophos.com/blog)
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
 
