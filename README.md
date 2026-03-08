@@ -28,6 +28,7 @@
 - [Cisco Talos](https://blog.talosintelligence.com/)
 - [CrowdStrike](https://www.crowdstrike.com/blog/)
 - [Fortinet](https://www.fortinet.com/blog/)
+- [Intel 471](https://www.intel471.com/blog)
 - [Malwarebytes](https://www.malwarebytes.com/blog/)
 - [Microsoft Security](https://www.microsoft.com/security/blog/)
 - [Nozomi Networks](https://www.nozominetworks.com/blog)
@@ -37,6 +38,7 @@
 - [ReversingLabs](https://www.reversinglabs.com/blog)
 - [SentinelOne](https://www.sentinelone.com/blog/)
 - [Sophos](https://www.sophos.com/blog)
+- [Team Cymru](https://www.team-cymru.com/blog)
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
 
 
