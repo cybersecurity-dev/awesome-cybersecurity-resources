@@ -40,6 +40,7 @@
 - [McAfee](https://www.mcafee.com/blogs/)
 - [Microsoft Security](https://www.microsoft.com/security/blog/)
 - [Nozomi Networks](https://www.nozominetworks.com/blog)
+- [NVISO Labs](https://blog.nviso.eu/)
 - [Palo Alto Networks](https://www.paloaltonetworks.com/blog/)
 - [Recorded Future](https://www.recordedfuture.com/blog/)
 - [Red Hat Security](https://www.redhat.com/en/blog/channel/security/)
