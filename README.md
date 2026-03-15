@@ -35,6 +35,7 @@
 - [ESET](https://www.eset.com/blog)
 - [Fortinet](https://www.fortinet.com/blog/)
 - [Intel 471](https://www.intel471.com/blog)
+- [JUMPSEC](https://labs.jumpsec.com/)
 - [Kaspersky](https://www.kaspersky.com/blog/)
 - [Malwarebytes](https://www.malwarebytes.com/blog/)
 - [McAfee](https://www.mcafee.com/blogs/)
