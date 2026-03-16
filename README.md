@@ -31,7 +31,7 @@
 - [Bitdefender](https://www.bitdefender.com/blog/)
 - [Check Point](https://blog.checkpoint.com/)
 - [Cisco Talos](https://blog.talosintelligence.com/)
-- [Cybereason](https://www.cybereason.com/)
+- [Cybereason](https://www.cybereason.com/blog)
 - [CrowdStrike](https://www.crowdstrike.com/blog/)
 - [ESET](https://www.eset.com/blog)
 - [Fortinet](https://www.fortinet.com/blog/)
