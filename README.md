@@ -28,6 +28,7 @@
 ### Company Blog
 - [8kSec](https://8ksec.io/blog/)
 - [Anomali](https://www.anomali.com/blog/)
+- [Arctic Wolf](https://arcticwolf.com/resources/blog/)
 - [Bitdefender](https://www.bitdefender.com/blog/)
 - [Check Point](https://blog.checkpoint.com/)
 - [Cisco Talos](https://blog.talosintelligence.com/)
