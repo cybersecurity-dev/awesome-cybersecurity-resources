@@ -27,6 +27,8 @@
 
 ### Company Blog
 - [8kSec](https://8ksec.io/blog/)
+- [Acronis](https://www.acronis.com/blog/)
+- [Akamai](https://www.akamai.com/blog/)
 - [Anomali](https://www.anomali.com/blog/)
 - [Arctic Wolf](https://arcticwolf.com/resources/blog/)
 - [Bitdefender](https://www.bitdefender.com/blog/)
@@ -35,7 +37,9 @@
 - [Cybereason](https://www.cybereason.com/blog)
 - [CrowdStrike](https://www.crowdstrike.com/blog/)
 - [ESET](https://www.eset.com/blog)
-- [Fortinet](https://www.fortinet.com/blog/)
+- [Fortinet](https://www.fortinet.com/blog)
+- [F‑Secure](https://www.f-secure.com/en/articles/)
+- [GenDigital](https://www.gendigital.com/blog)
 - [Intel 471](https://www.intel471.com/blog)
 - [JUMPSEC](https://labs.jumpsec.com/)
 - [Kaspersky](https://www.kaspersky.com/blog/)
