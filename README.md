@@ -57,6 +57,7 @@
 - [SentinelOne](https://www.sentinelone.com/blog/)
 - [Sophos](https://www.sophos.com/blog)
 - [Team Cymru](https://www.team-cymru.com/blog)
+- [Thales Security](https://cpl.thalesgroup.com/blog)
 - [Virustotal](https://blog.virustotal.com/)
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
 
