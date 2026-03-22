@@ -40,6 +40,7 @@
 - [Fortinet](https://www.fortinet.com/blog)
 - [F‑Secure](https://www.f-secure.com/en/articles/)
 - [GenDigital](https://www.gendigital.com/blog)
+- [Halcyon](https://www.halcyon.ai/blog)
 - [Intel 471](https://www.intel471.com/blog)
 - [JUMPSEC](https://labs.jumpsec.com/)
 - [Kaspersky](https://www.kaspersky.com/blog/)
