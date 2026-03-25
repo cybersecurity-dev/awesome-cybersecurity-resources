@@ -21,7 +21,10 @@
 </p>
 
 
-### Blog
+## Books
+* [How Cybersecurity Really Works: A Hands-On Guide for Total Beginners](https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285)
+
+## Blog
 - [Firefox - Attack & Defense](https://attackanddefense.dev/)
 - [Google - Project Zero](https://projectzero.google/)
 
