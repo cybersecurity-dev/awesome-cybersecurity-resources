@@ -31,6 +31,7 @@
 ### Company Blog
 - [8kSec](https://8ksec.io/blog/)
 - [Acronis](https://www.acronis.com/blog/)
+- [Aikido Security](https://www.aikido.dev/blog)
 - [Akamai](https://www.akamai.com/blog/)
 - [Anomali](https://www.anomali.com/blog/)
 - [Arctic Wolf](https://arcticwolf.com/resources/blog/)
