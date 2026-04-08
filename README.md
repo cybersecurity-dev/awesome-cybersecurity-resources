@@ -23,6 +23,7 @@
 
 ## Books
 * [How Cybersecurity Really Works: A Hands-On Guide for Total Beginners](https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285)
+* [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
 
 ## Blog
 - [Firefox - Attack & Defense](https://attackanddefense.dev/)
