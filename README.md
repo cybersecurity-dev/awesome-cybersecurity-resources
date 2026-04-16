@@ -68,6 +68,7 @@
 - [Thales Security](https://cpl.thalesgroup.com/blog)
 - [Virustotal](https://blog.virustotal.com/)
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
+- [Zimperium](https://zimperium.com/blog)
 
 
 ### Personal Blog
