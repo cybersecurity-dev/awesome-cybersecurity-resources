@@ -23,6 +23,9 @@
 
 ## Books
 * [How Cybersecurity Really Works: A Hands-On Guide for Total Beginners](https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285)
+* [The Art of Cyberwarfare: An Investigator's Guide to Espionage, Ransomware, and Organized Cybercrime](https://www.amazon.com/Art-Cyberwarfare-Investigators-Ransomware-Cybercrime/dp/1718502141)
+* [Cyberjutsu: Cybersecurity for the Modern Ninja](https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/)
+* [Cybersecurity Tabletop Exercises: From Planning to Execution](https://www.amazon.com/Cybersecurity-Tabletop-Exercises-Planning-Execution/dp/1718503822)
 * [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
 
 ## Blog
@@ -86,5 +89,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-cybersecurity-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-cybersecurity-resources-)
