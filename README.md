@@ -45,6 +45,7 @@
 - [Cisco Talos](https://blog.talosintelligence.com/)
 - [Cybereason](https://www.cybereason.com/blog)
 - [CrowdStrike](https://www.crowdstrike.com/blog/)
+- [Elastic Security Labs](elastic.co/security-labs)
 - [ESET](https://www.eset.com/blog)
 - [Fortinet](https://www.fortinet.com/blog)
 - [F‑Secure](https://www.f-secure.com/en/articles/)
