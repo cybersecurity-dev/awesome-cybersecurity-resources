@@ -20,6 +20,16 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [Books](#books)
+- [Podcasts](#podcasts)
+- [Videos](#videos)
+- [Blogs](#blogs)
+    - [Company Blogs](#company-blogs)
+    - [Personal Blog](#personal-blog)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Books
 * [How Cybersecurity Really Works: A Hands-On Guide for Total Beginners](https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285)
@@ -28,11 +38,19 @@
 * [Cybersecurity Tabletop Exercises: From Planning to Execution](https://www.amazon.com/Cybersecurity-Tabletop-Exercises-Planning-Execution/dp/1718503822)
 * [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
 
-## Blog
+## Podcasts
+- `CyberWire Daily` : [Spotify](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
+- `Darknet Diaries` : [Spotify](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
+- `Malicious Life`  : [Spotify](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
+- `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
+
+## Videos
+
+## Blogs
 - [Firefox - Attack & Defense](https://attackanddefense.dev/)
 - [Google - Project Zero](https://projectzero.google/)
 
-### Company Blog
+### Company Blogs
 - [8kSec](https://8ksec.io/blog/)
 - [Acronis](https://www.acronis.com/blog/)
 - [Aikido Security](https://www.aikido.dev/blog)
@@ -74,11 +92,9 @@
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
 - [Zimperium](https://zimperium.com/blog)
 
-
 ### Personal Blog
 - [0dayfans](https://0dayfans.com/)
 - [Dayzerosec](https://dayzerosec.com/blog/)
-
 
 ##
 
