@@ -44,8 +44,10 @@
 - `CyberWire Daily` : [Spotify](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
 - `Cyber Security Sauna` : [Spotify](https://open.spotify.com/show/1lZNKbGxw1FNLJspTZdYb5) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyber-security-sauna/id1319194666)
 - `Darknet Diaries` : [Spotify](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
+- `Hacking Humans` : [Spotify](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
 - `Malicious Life`  : [Spotify](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
 - `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
+- `Smashing Security` : [Spotify](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/smashing-security/id1195001633)
 
 ## Videos
 
