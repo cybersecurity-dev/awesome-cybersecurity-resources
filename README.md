@@ -39,11 +39,13 @@
 * [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
 
 ## Podcasts
+- `Bitdefender - Cybercrime: From the Frontline` : [Spotify](https://open.spotify.com/show/5YRK5Gq5LWr5Yn9mekKAPq) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cybercrime-from-the-frontline/id1802214239)
 - `Cisco Talos Podcasts` : [Spotify](https://open.spotify.com/show/0KUi5HIbOUJNRD3LTpkWUV) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/beers-with-talos-podcast/id1236329410)
 - `CrowdStrike - Adversary Universe Podcasts` : [Spotify](https://open.spotify.com/show/1ZYDiiBuJvTx7YsvuCenEZ) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/adversary-universe-podcast/id1694819239)
 - `CyberWire Daily` : [Spotify](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
 - `Cyber Security Sauna` : [Spotify](https://open.spotify.com/show/1lZNKbGxw1FNLJspTZdYb5) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyber-security-sauna/id1319194666)
 - `Darknet Diaries` : [Spotify](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
+- `ESET Research` : [Spotify](https://open.spotify.com/show/1WDjY2A3A3s5FKycrOVkhg) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/eset-research-podcast/id1596306608)
 - `Hacking Humans` : [Spotify](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
 - `Malicious Life`  : [Spotify](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
 - `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
