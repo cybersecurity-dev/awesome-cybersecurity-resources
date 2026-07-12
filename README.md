@@ -47,9 +47,11 @@
 - `Darknet Diaries` : [Spotify](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485)
 - `ESET Research` : [Spotify](https://open.spotify.com/show/1WDjY2A3A3s5FKycrOVkhg) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/eset-research-podcast/id1596306608)
 - `Hacking Humans` : [Spotify](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
+- `Intel 471 - Out of the Woods` : [Spotify](https://open.spotify.com/show/2HlWPJmu3ctbvUX1FXB6UI) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/out-of-the-woods-the-threat-hunting-podcast/id1643725696)
 - `Malicious Life`  : [Spotify](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
 - `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
 - `Smashing Security` : [Spotify](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/smashing-security/id1195001633)
+- `Thales Security` : [Spotify](https://open.spotify.com/show/7DTnHr3AUecB30jYvexVZb) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/thales-security-sessions/id1541013082)
 
 ## Videos
 
