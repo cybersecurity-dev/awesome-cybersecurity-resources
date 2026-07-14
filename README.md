@@ -52,6 +52,8 @@
 - `ReversingLabs - ConversingLabs ` : [Spotify](https://open.spotify.com/show/48huF2XmgzOKYmoElS7yEk) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/conversinglabs-podcast/id1659451404)
 - `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
 - `Smashing Security` : [Spotify](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/smashing-security/id1195001633)
+- `Sophos Lounge` : [Spotify](https://open.spotify.com/show/7AdebBBnAv9tuehhHGFWLm) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/sophos-lounge/id1518687074)
+- `Sopra Steria` : [Spotify](https://open.spotify.com/show/3hi1kTxqZDXcD7UeHcx01S) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/sopra-steria-voices/id1896777419)
 - `Team Cymru - Future of Threat Intelligence` : [Spotify](https://open.spotify.com/show/0671lFjPIgX6k2jYRrWrf4) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/future-of-threat-intelligence/id1631947902)
 - `Thales Security` : [Spotify](https://open.spotify.com/show/7DTnHr3AUecB30jYvexVZb) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/thales-security-sessions/id1541013082)
 
