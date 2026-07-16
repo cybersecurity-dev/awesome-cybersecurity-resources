@@ -51,6 +51,7 @@
 - `Hacking Humans` : [Spotify](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
 - `Intel 471 - Out of the Woods` : [Spotify](https://open.spotify.com/show/2HlWPJmu3ctbvUX1FXB6UI) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/out-of-the-woods-the-threat-hunting-podcast/id1643725696)
 - `Malicious Life`  : [Spotify](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
+- `Recorded Future News` : [Spotify](https://open.spotify.com/show/2kxOETGvN32D6hZu0wPntG) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/click-here/id1225077306)
 - `ReversingLabs - ConversingLabs ` : [Spotify](https://open.spotify.com/show/48huF2XmgzOKYmoElS7yEk) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/conversinglabs-podcast/id1659451404)
 - `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
 - `Smashing Security` : [Spotify](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/smashing-security/id1195001633)
@@ -58,6 +59,7 @@
 - `Sopra Steria` : [Spotify](https://open.spotify.com/show/3hi1kTxqZDXcD7UeHcx01S) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/sopra-steria-voices/id1896777419)
 - `Team Cymru - Future of Threat Intelligence` : [Spotify](https://open.spotify.com/show/0671lFjPIgX6k2jYRrWrf4) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/future-of-threat-intelligence/id1631947902)
 - `Thales Security` : [Spotify](https://open.spotify.com/show/7DTnHr3AUecB30jYvexVZb) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/thales-security-sessions/id1541013082)
+- `The OpenSourceMalware Show` : [Spotify](https://open.spotify.com/show/1O4OJdzxYJCIg10xHpNHON) - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-opensourcemalware-show/id1895649369)
 
 ## Videos
 
