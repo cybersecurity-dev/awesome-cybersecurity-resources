@@ -40,6 +40,7 @@
 
 ## Podcasts
 - `Bitdefender - Cybercrime: From the Frontline` : [Spotify](https://open.spotify.com/show/5YRK5Gq5LWr5Yn9mekKAPq) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cybercrime-from-the-frontline/id1802214239)
+- `Breaking Into Cybersecurity` : [Spotify](https://open.spotify.com/show/16hs6zYtLa4iS4RTcyNF71) - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/breaking-into-cybersecurity/id1463136698)
 - `Cisco Talos Podcasts` : [Spotify](https://open.spotify.com/show/0KUi5HIbOUJNRD3LTpkWUV) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/beers-with-talos-podcast/id1236329410)
 - `CrowdStrike - Adversary Universe Podcasts` : [Spotify](https://open.spotify.com/show/1ZYDiiBuJvTx7YsvuCenEZ) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/adversary-universe-podcast/id1694819239)
 - `CyberWire Daily` : [Spotify](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
@@ -51,6 +52,7 @@
 - `Hacking Humans` : [Spotify](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/hacking-humans/id1391915810)
 - `Intel 471 - Out of the Woods` : [Spotify](https://open.spotify.com/show/2HlWPJmu3ctbvUX1FXB6UI) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/out-of-the-woods-the-threat-hunting-podcast/id1643725696)
 - `Malicious Life`  : [Spotify](https://open.spotify.com/show/1KHIsaZ9mX0NbzPrfId00q) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/malicious-life/id1252417787)
+- `Only Malware in the Building` : [Spotify](https://open.spotify.com/show/0oY3l5ApUzgdZKHYoct1rJ) - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/only-malware-in-the-building/id1749644761)
 - `Recorded Future News` : [Spotify](https://open.spotify.com/show/2kxOETGvN32D6hZu0wPntG) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/click-here/id1225077306)
 - `ReversingLabs - ConversingLabs ` : [Spotify](https://open.spotify.com/show/48huF2XmgzOKYmoElS7yEk) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/conversinglabs-podcast/id1659451404)
 - `Security Now`    : [Spotify](https://open.spotify.com/show/6qiyFytNKOgKYk6Y0Otgf0) - [Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-video/id593053325)
