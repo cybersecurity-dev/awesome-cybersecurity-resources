@@ -44,6 +44,7 @@
 - `Cisco Talos Podcasts` : [_Spotify_](https://open.spotify.com/show/0KUi5HIbOUJNRD3LTpkWUV) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/beers-with-talos-podcast/id1236329410)
 - `CrowdStrike - Adversary Universe Podcasts` : [_Spotify_](https://open.spotify.com/show/1ZYDiiBuJvTx7YsvuCenEZ) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/adversary-universe-podcast/id1694819239)
 - `CyberWire Daily` : [_Spotify_](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
+- `Cyber Security Coalition` : [_Spotify_](https://open.spotify.com/show/457Jf75GAIA2cfNsNtQ11v) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/cyber-security-coalition/id1688438616)
 - `Cyber Security Sauna` : [_Spotify_](https://open.spotify.com/show/1lZNKbGxw1FNLJspTZdYb5) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/cyber-security-sauna/id1319194666)
 - `Cybersecurity Today` : [_Spotify_](https://open.spotify.com/show/2YiPcnkJLIcxtQ04nCfaSu) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/cybersecurity-today/id1363182054)
 - `Cyber Threats Xposed` : [_Spotify_](https://open.spotify.com/show/7269nQbAHt3BBLAPN8xkl2) - [_Youtube_](https://youtube.com/playlist?list=PLkMjG1Mo4pKLcrg5IYfXSODYWjl6p_nMl&si=A-MwWe-11d_GcbzN)
