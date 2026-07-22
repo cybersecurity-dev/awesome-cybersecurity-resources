@@ -32,12 +32,13 @@
 - [Contributors](#contributors)
 
 ## Books
+* [Cyberjutsu: Cybersecurity for the Modern Ninja](https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/)
+* [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
+* [Cybersecurity Tabletop Exercises: From Planning to Execution](https://www.amazon.com/Cybersecurity-Tabletop-Exercises-Planning-Execution/dp/1718503822)
+* [Foundations of Cybersecurity: A Straightforward Introduction](https://www.amazon.com/Foundations-Cybersecurity-2nd-Straightforward-Introduction/dp/1718504403)
 * [How Cybersecurity Really Works: A Hands-On Guide for Total Beginners](https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285)
 * [The Art of Cyberwarfare: An Investigator's Guide to Espionage, Ransomware, and Organized Cybercrime](https://www.amazon.com/Art-Cyberwarfare-Investigators-Ransomware-Cybercrime/dp/1718502141)
-* [Cyberjutsu: Cybersecurity for the Modern Ninja](https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/)
-* [Cybersecurity Tabletop Exercises: From Planning to Execution](https://www.amazon.com/Cybersecurity-Tabletop-Exercises-Planning-Execution/dp/1718503822)
-* [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
-
+* 
 ## Podcasts
 - `Bitdefender - Cybercrime: From the Frontline` : [_Spotify_](https://open.spotify.com/show/5YRK5Gq5LWr5Yn9mekKAPq) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/cybercrime-from-the-frontline/id1802214239)
 - `Breaking Into Cybersecurity` : [_Spotify_](https://open.spotify.com/show/16hs6zYtLa4iS4RTcyNF71) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/breaking-into-cybersecurity/id1463136698)
