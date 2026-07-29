@@ -76,6 +76,8 @@
 ## Blogs
 - [Firefox - Attack & Defense](https://attackanddefense.dev/)
 - [Google - Project Zero](https://projectzero.google/)
+- [Phrack](https://phrack.org/)
+- [The cybersecurity shelf](https://www.cybershelf.org/)
 
 ### Company Blogs
 - [8kSec](https://8ksec.io/blog/)
