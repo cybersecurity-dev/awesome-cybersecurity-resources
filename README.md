@@ -71,6 +71,14 @@
 - `Thales Security` : [_Spotify_](https://open.spotify.com/show/7DTnHr3AUecB30jYvexVZb) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/thales-security-sessions/id1541013082)
 - `The OpenSourceMalware Show` : [_Spotify_](https://open.spotify.com/show/1O4OJdzxYJCIg10xHpNHON) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/the-opensourcemalware-show/id1895649369)
 
+
+## Cybersecurity Tools
+
+### AI-powered Pentest Assistant Tool
+- [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
+- [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - [HexStrike](https://www.hexstrike.com/) AI MCP Agents is an advanced MCP server that lets AI agents (_Claude, GPT, Copilot, etc._) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+
+
 ## Videos
 
 ## Blogs
