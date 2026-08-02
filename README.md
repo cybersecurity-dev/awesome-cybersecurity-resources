@@ -74,10 +74,15 @@
 
 ## Cybersecurity Tools
 
-### AI-powered Pentest Assistant Tool
+### Network Mapper
+- [NMAP](https://nmap.org/) - Nmap ("[`Network Mapper`]( https://svn.nmap.org/)") is a free and open source utility for network discovery and security auditing.
+
+### Web Server Scanner
+- [Nikto](https://github.com/sullo/nikto) - Nikto web server scanner.
+
+### AI-powered Assistant Tool
 - [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - [HexStrike](https://www.hexstrike.com/) AI MCP Agents is an advanced MCP server that lets AI agents (_Claude, GPT, Copilot, etc._) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
-
 
 ## Videos
 
