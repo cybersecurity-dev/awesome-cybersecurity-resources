@@ -138,6 +138,9 @@
 - [0dayfans](https://0dayfans.com/)
 - [Dayzerosec](https://dayzerosec.com/blog/)
 
+### Certifications
+* [GIAC Certified Forensic Analyst (`GCFA`)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti)
+
 ##
 
 ### My Other Awesome Lists
