@@ -69,6 +69,7 @@
 - `Sopra Steria` : [_Spotify_](https://open.spotify.com/show/3hi1kTxqZDXcD7UeHcx01S) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/sopra-steria-voices/id1896777419)
 - `Team Cymru - Future of Threat Intelligence` : [_Spotify_](https://open.spotify.com/show/0671lFjPIgX6k2jYRrWrf4) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/future-of-threat-intelligence/id1631947902)
 - `Thales Security` : [_Spotify_](https://open.spotify.com/show/7DTnHr3AUecB30jYvexVZb) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/thales-security-sessions/id1541013082)
+- `The AppSec Management Podcast` : [_Spotify_](https://open.spotify.com/show/3lHNDBQZTXcxkAKbiImNfJ) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/the-appsec-management-podcast/id1858885478)
 - `The OpenSourceMalware Show` : [_Spotify_](https://open.spotify.com/show/1O4OJdzxYJCIg10xHpNHON) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/the-opensourcemalware-show/id1895649369)
 
 
@@ -89,6 +90,7 @@
 ## Blogs
 - [Firefox - Attack & Defense](https://attackanddefense.dev/)
 - [Google - Project Zero](https://projectzero.google/)
+- [Krebs on Security](https://krebsonsecurity.com/)
 - [Phrack](https://phrack.org/)
 - [The cybersecurity shelf](https://www.cybershelf.org/)
 
@@ -143,6 +145,8 @@
 
 ### RSS
 * [Dark Reading](https://www.darkreading.com/rss.xml)
+* [Firefox - Attack & Defense](https://attackanddefense.dev/feed.xml)
+* [Krebs on Security](https://krebsonsecurity.com/feed/)
 
 ##
 
