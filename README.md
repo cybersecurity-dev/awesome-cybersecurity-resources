@@ -107,7 +107,7 @@
 - [Cisco Talos](https://blog.talosintelligence.com/)
 - [Cybereason](https://www.cybereason.com/blog)
 - [CrowdStrike](https://www.crowdstrike.com/blog/)
-- [Elastic Security Labs](elastic.co/security-labs)
+- [Elastic Security Labs](https://www.elastic.co/security-labs)
 - [ESET](https://www.eset.com/blog)
 - [Fortinet](https://www.fortinet.com/blog)
 - [F‑Secure](https://www.f-secure.com/en/articles/)
@@ -145,8 +145,11 @@
 
 ### RSS
 * [Dark Reading](https://www.darkreading.com/rss.xml)
+* [Elastic Security Labs](https://www.elastic.co/security-labs/rss/feed.xml)
 * [Firefox - Attack & Defense](https://attackanddefense.dev/feed.xml)
 * [Krebs on Security](https://krebsonsecurity.com/feed/)
+* [Thales Security](https://cpl.thalesgroup.com/blog/feed)
+* [Virustotal](https://blog.virustotal.com/feeds/posts/default)
 
 ##
 
