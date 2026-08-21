@@ -27,6 +27,8 @@
 - [Blogs](#blogs)
     - [Company Blogs](#company-blogs)
     - [Personal Blog](#personal-blog)
+- [Certifications](#certifications)
+- [RSS](#rss)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -140,13 +142,18 @@
 - [0dayfans](https://0dayfans.com/)
 - [Dayzerosec](https://dayzerosec.com/blog/)
 
-### Certifications
+## Certifications
 * [GIAC Certified Forensic Analyst (`GCFA`)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti)
 
-### RSS
+## RSS
+* [0dayfans](https://0dayfans.com/feed.rss)
+* [Acronis](https://www.acronis.com/en-us/blog/feed.xml)
+* [Akamai](https://feeds.feedburner.com/akamai/blog)
 * [Dark Reading](https://www.darkreading.com/rss.xml)
+* [Dayzerosec](https://dayzerosec.com/feed.xml)
 * [Elastic Security Labs](https://www.elastic.co/security-labs/rss/feed.xml)
 * [Firefox - Attack & Defense](https://attackanddefense.dev/feed.xml)
+* [FortiGuard Labs](https://feeds.fortinet.com/fortinet/blog/threat-research)
 * [Krebs on Security](https://krebsonsecurity.com/feed/)
 * [Thales Security](https://cpl.thalesgroup.com/blog/feed)
 * [Virustotal](https://blog.virustotal.com/feeds/posts/default)
