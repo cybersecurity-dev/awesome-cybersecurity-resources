@@ -149,6 +149,8 @@
 * [0dayfans](https://0dayfans.com/feed.rss)
 * [Acronis](https://www.acronis.com/en-us/blog/feed.xml)
 * [Akamai](https://feeds.feedburner.com/akamai/blog)
+* [Binary Ninja](https://binary.ninja/feed.xml)
+* [Bitdefender Labs](https://www.bitdefender.com/nuxt/api/en-us/rss/labs/)
 * [Dark Reading](https://www.darkreading.com/rss.xml)
 * [Dayzerosec](https://dayzerosec.com/feed.xml)
 * [Elastic Security Labs](https://www.elastic.co/security-labs/rss/feed.xml)
@@ -156,7 +158,9 @@
 * [FortiGuard Labs](https://feeds.fortinet.com/fortinet/blog/threat-research)
 * [Krebs on Security](https://krebsonsecurity.com/feed/)
 * [Thales Security](https://cpl.thalesgroup.com/blog/feed)
-* [Virustotal](https://blog.virustotal.com/feeds/posts/default)
+* [Virus Bulletin Blog](https://blog.virustotal.com/feeds/posts/default)
+* [VirusTotal Blog](https://blog.virustotal.com/feeds/posts/default)
+* [WeLiveSecurity](https://www.welivesecurity.com/en/rss/feed/)
 
 ##
 
