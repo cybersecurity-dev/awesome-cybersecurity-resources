@@ -148,6 +148,7 @@
 ## RSS
 * [0dayfans](https://0dayfans.com/feed.rss)
 * [Acronis](https://www.acronis.com/en-us/blog/feed.xml)
+* [Aikido](https://www.aikido.dev/blog/rss.xml)
 * [Akamai](https://feeds.feedburner.com/akamai/blog)
 * [Binary Ninja](https://binary.ninja/feed.xml)
 * [Bitdefender Labs](https://www.bitdefender.com/nuxt/api/en-us/rss/labs/)
@@ -167,6 +168,7 @@
 * [Orca Security](https://orca.security/feed/)
 * [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/feed/)
 * [Red Canary](https://redcanary.com/blog/feed/)
+* [ReversingLabs](https://www.reversinglabs.com/blog/rss.xml)
 * [Schneier on Security](https://www.schneier.com/feed/)
 * [SecurityWeek](https://www.securityweek.com/feed/)
 * [Thales Security](https://cpl.thalesgroup.com/blog/feed)
