@@ -143,7 +143,17 @@
 - [Dayzerosec](https://dayzerosec.com/blog/)
 
 ## Certifications
-* [GIAC Certified Forensic Analyst (`GCFA`)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti)
+- [Certified Malware Analysis (**`CMA`**)](https://www.ncsi.institute/collections/board-certifications-online-career-development/products/certified-malware-analysis)
+- [GIAC Certified Forensic Analyst (`GCFA`)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti)
+- [GIAC Red Team Professional (`GRTP`)](https://www.giac.org/certifications/red-team-professional-grtp)
+- [GIAC Reverse Engineering Malware Certification (**`GREM`**)](https://www.giac.org/certifications/reverse-engineering-malware-grem)
+- [MCSI Certified Reverse Engineer (**`MRE`**)](https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html)
+- [OSAI by OffSec](https://help.offsec.com/hc/articles/46593096734612-OSAI-Exam-Guide)
+- [OSAI+ by OffSec](https://help.offsec.com/hc/articles/46593095198740-OSAI-Advanced-AI-Red-Teaming-AI-300-FAQ)
+    - [Advanced AI Red Teaming by OffSec](https://www.offsec.com/courses/ai-300/)
+- [OSCP+ by OffSec](https://help.offsec.com/hc//articles/4412170923924-OSCP-Exam-FAQ)
+    - [Penetration Testing with Kali Linux by OffSec](https://www.offsec.com/courses/pen-200/)
+- [Practical Malware Research Professional (**`PMRP`**)](https://certifications.tcm-sec.com/pmrp/)
 
 ## RSS
 * [0dayfans](https://0dayfans.com/feed.rss)
