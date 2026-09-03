@@ -21,19 +21,19 @@
 </p>
 
 ## 📖 Contents
-- [Books](#books)
-- [Podcasts](#podcasts)
-- [Videos](#videos)
-- [Blogs](#blogs)
+- [Books](#-books)
+- [Podcasts](#-podcasts)
+- [Videos](#-videos)
+- [Blogs](#-blogs)
     - [Company Blogs](#company-blogs)
     - [Personal Blog](#personal-blog)
-- [Certifications](#certifications)
-- [RSS](#rss)
+- [Certifications](#-certifications)
+- [RSS](#-rss)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## Books
+## [↑](#-contents) Books
 * [Cyberjutsu: Cybersecurity for the Modern Ninja](https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/)
 * [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
 * [Cybersecurity Tabletop Exercises: From Planning to Execution](https://www.amazon.com/Cybersecurity-Tabletop-Exercises-Planning-Execution/dp/1718503822)
@@ -41,7 +41,7 @@
 * [How Cybersecurity Really Works: A Hands-On Guide for Total Beginners](https://www.amazon.com/How-Cybersecurity-Really-Works-Hands/dp/1718501285)
 * [The Art of Cyberwarfare: An Investigator's Guide to Espionage, Ransomware, and Organized Cybercrime](https://www.amazon.com/Art-Cyberwarfare-Investigators-Ransomware-Cybercrime/dp/1718502141)
 
-## Podcasts
+### [↑](#-contents) Podcasts
 - `Bitdefender - Cybercrime: From the Frontline` : [_Spotify_](https://open.spotify.com/show/5YRK5Gq5LWr5Yn9mekKAPq) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/cybercrime-from-the-frontline/id1802214239)
 - `Breaking Into Cybersecurity` : [_Spotify_](https://open.spotify.com/show/16hs6zYtLa4iS4RTcyNF71) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/breaking-into-cybersecurity/id1463136698)
 - `Cisco Talos Podcasts` : [_Spotify_](https://open.spotify.com/show/0KUi5HIbOUJNRD3LTpkWUV) - [_Apple Podcasts_](https://podcasts.apple.com/us/podcast/beers-with-talos-podcast/id1236329410)
@@ -75,7 +75,7 @@
 - `The OpenSourceMalware Show` : [_Spotify_](https://open.spotify.com/show/1O4OJdzxYJCIg10xHpNHON) - [_Apple Podcasts_](https://podcasts.apple.com/gb/podcast/the-opensourcemalware-show/id1895649369)
 
 
-## Cybersecurity Tools
+## [↑](#-contents) Cybersecurity Tools
 
 ### Network Mapper
 - [NMAP](https://nmap.org/) - Nmap ("[`Network Mapper`]( https://svn.nmap.org/)") is a free and open source utility for network discovery and security auditing.
@@ -87,9 +87,9 @@
 - [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - [HexStrike](https://www.hexstrike.com/) AI MCP Agents is an advanced MCP server that lets AI agents (_Claude, GPT, Copilot, etc._) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
 
-## Videos
+## [↑](#-contents) Videos
 
-## Blogs
+## [↑](#-contents) Blogs
 - [Firefox - Attack & Defense](https://attackanddefense.dev/)
 - [Google - Project Zero](https://projectzero.google/)
 - [Krebs on Security](https://krebsonsecurity.com/)
@@ -142,7 +142,7 @@
 - [0dayfans](https://0dayfans.com/)
 - [Dayzerosec](https://dayzerosec.com/blog/)
 
-## Certifications
+## [↑](#-contents) Certifications
 - [Certified Malware Analysis (**`CMA`**)](https://www.ncsi.institute/collections/board-certifications-online-career-development/products/certified-malware-analysis)
 - [GIAC Certified Forensic Analyst (`GCFA`)](https://www.giac.org/certifications/cyber-threat-intelligence-gcti)
 - [GIAC Red Team Professional (`GRTP`)](https://www.giac.org/certifications/red-team-professional-grtp)
@@ -155,7 +155,7 @@
     - [Penetration Testing with Kali Linux by OffSec](https://www.offsec.com/courses/pen-200/)
 - [Practical Malware Research Professional (**`PMRP`**)](https://certifications.tcm-sec.com/pmrp/)
 
-## RSS
+## [↑](#-contents) RSS
 * [0dayfans](https://0dayfans.com/feed.rss)
 * [Acronis](https://www.acronis.com/en-us/blog/feed.xml)
 * [Aikido](https://www.aikido.dev/blog/rss.xml)
