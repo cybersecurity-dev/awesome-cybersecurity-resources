@@ -170,6 +170,7 @@
 * [Elastic Security Labs](https://www.elastic.co/security-labs/rss/feed.xml)
 * [Firefox - Attack & Defense](https://attackanddefense.dev/feed.xml)
 * [FortiGuard Labs](https://feeds.fortinet.com/fortinet/blog/threat-research)
+* [ICHI Internet Cyber Health Index](https://ichi.global/api/alerts)
 * [Intigriti](https://www.intigriti.com/blog/feed)
 * [Joe Security](https://www.joesecurity.org/rss)
 * [Kaspersky (Securelist)](https://securelist.com/feed/)
