@@ -163,6 +163,7 @@
 * [Akamai](https://feeds.feedburner.com/akamai/blog)
 * [Binary Ninja](https://binary.ninja/feed.xml)
 * [Bitdefender Labs](https://www.bitdefender.com/nuxt/api/en-us/rss/labs/)
+* [Cirlet Agency Security Resources](https://aicybersecurityforinsuranceagencies.com/feed.xml)
 * [Cisco Talos](https://feeds.feedburner.com/feedburner/Talos)
 * [CrowdStrike Blog](https://www.crowdstrike.com/en-us/blog/feed)
 * [Dark Reading](https://www.darkreading.com/rss.xml)
